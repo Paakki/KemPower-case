@@ -2,17 +2,17 @@
 
 ## Functional Requirements
 
-| REQ-ID | Requirement Description                                                  | Pri   |
-| ------ | ------------------------------------------------------------------------ | ----- |
-| 001    | System allows creation of lighting profiles (brightness, color, scenes)  | Must  |
-| 002    | Lighting profiles can be applied to multiple rooms simultaneously        | Must  |
-| 003    | System supports grouping rooms (e.g. standard rooms, suites, restaurant) | Must  |
-| 004    | Profiles can be scheduled based on time (morning, evening, night)        | Must  |
-| 005    | Changes to profiles are synced instantly across selected rooms           | Must  |
-| 006    | Guest can manually adjust room lighting setup                            | Must  |
-| 007    | Lighting resets automatically to default profile after guest checkouts   | Must  |
-| 008    | System works even when a hotel has big number of rooms                   | Must  |
-| 009    | System logs changes made to lighting profiles                            | Could |
+| REQ-ID | Requirement Description                                                 | Pri   |
+| ------ | ----------------------------------------------------------------------- | ----- |
+| 001    | System allows creation of lighting profiles (brightness, color, scenes) | Must  |
+| 002    | Lighting profiles can be applied to multiple rooms simultaneously       | Must  |
+| 003    | System supports grouping rooms (standard rooms, suites, restaurant)     | Must  |
+| 004    | Profiles can be scheduled based on time (morning, evening, night)       | Must  |
+| 005    | Changes to profiles are synced instantly across selected rooms          | Must  |
+| 006    | Guest can manually adjust room lighting setup                           | Must  |
+| 007    | Lighting resets automatically to default profile after guest checkouts  | Must  |
+| 008    | System works even when a hotel has big number of rooms                  | Must  |
+| 009    | System logs changes made to lighting profiles                           | Could |
 
 ---
 
