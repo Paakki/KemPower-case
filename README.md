@@ -4,4 +4,4 @@ Juha-Matti Paakki
 
 Homework at /docs
 
-week 3 homework completed
+week 4 homework completed
