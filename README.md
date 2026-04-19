@@ -5,8 +5,7 @@ Juha-Matti Paakki
 Homework at /docs
 App at /src
 
-Video of running the App: [RoomLight](https://youtu.be/msh1IddQNnQ)
-Plain Text Link: https://youtu.be/msh1IddQNnQ
+Video of running the App: https://youtu.be/msh1IddQNnQ
 
 ---
 
@@ -41,11 +40,9 @@ Create a lighting profile
 
 ```bash
 python roomlight.py create-profile <name> <brightness> <color> <scene>
-```
 
 Example:
 
-```bash
 python roomlight.py create-profile relax 40 warm_white relax
 ```
 
@@ -59,11 +56,9 @@ Apply profile to a group:
 
 ```bash
 python roomlight.py apply-profile-group <profile_name> <group_name>
-```
 
 Example:
 
-```bash
 python roomlight.py apply-profile-group relax standard
 ```
 
